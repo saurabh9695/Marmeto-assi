@@ -25,7 +25,7 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saurabh9695/Marmeto
+   git clone https://github.com/saurabh9695/Marmeto-assi
 
 
 ## Usage
@@ -36,4 +36,4 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 
 ## Deployment
 
-The project is deployed on Netlify. You can view it at the following link: [https://velvety-cactus-9b23f1.netlify.app].
+The project is deployed on Netlify. You can view it at the following link: [https://dancing-praline-ec42db.netlify.app/].
